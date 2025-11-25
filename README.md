@@ -22,7 +22,7 @@ This project was made to help me understand [this](https://datatracker.ietf.org/
 1. Compile the program:
 
 ```bash
-gcc dhcp_pcap_generator.c -o dhcp_pcap_generator
+gcc pcap_maker.c -o pcap_maker
 ```
 2. Run the program:
 
